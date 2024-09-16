@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "uid": "User Unique ID",
+  "uidDescription": "A unique identifier for the user",
+  "cname": "Company Name",
+  "cnameDescription": "The name of the user's company",
+  "pdfFilePath": "PDF File Path",
+  "pdfFilePathDescription": "The path to the selected PDF file",
+  "timestamp": "Timestamp",
+  "timestampDescription": "The date and time when the file was added"
+}

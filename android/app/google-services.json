@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198381499702",
+    "project_id": "mahavir-70eda",
+    "storage_bucket": "mahavir-70eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198381499702:android:1b5c6302bbfe6ab5e4ef97",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PtIR3bgeZXuIDUhDIsqzAZYoQTlh9-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

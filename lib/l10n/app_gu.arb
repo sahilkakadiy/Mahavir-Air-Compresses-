@@ -1,0 +1,11 @@
+{
+  "@@locale": "gu",
+  "uid": "વપરાશકર્તા અનન્ય આઈડી",
+  "uidDescription": "વપરાશકર્તા માટે એક અનન્ય ઓળખ",
+  "cname": "કંપનીનું નામ",
+  "cnameDescription": "વપરાશકર્તાની કંપનીનું નામ",
+  "pdfFilePath": "PDF ફાઇલ પાથ",
+  "pdfFilePathDescription": "પસંદ કરેલી PDF ફાઇલનો માર્ગ",
+  "timestamp": "સમયની મુદ્રા",
+  "timestampDescription": "તારીખ અને સમય જ્યારે ફાઇલ ઉમેરવામાં આવી હતી"
+}
